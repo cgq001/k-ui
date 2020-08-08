@@ -16,7 +16,7 @@ yarn lib
 ```
 ### UI库
 ```bash
-npm install k-cgq-ui -S 
+npm install k-cgq001-ui -S 
 ```
 ### 引入
 ```ts
