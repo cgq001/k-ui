@@ -20,7 +20,7 @@ npm install k-cgq-ui -S
 ```
 ### 引入
 ```ts
-import kUi from 'k-cgq-ui'
+import kUi from 'k-cgq001-ui'
 import 'k-cgq-ui/dist/k-ui.css'
 
 Vue.use(kUi)
